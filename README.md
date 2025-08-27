@@ -1,4 +1,4 @@
-# Crypto Assets Analysis with Python 
+# Crypto Assets Analysis with Python 🐍
 
 ### This project was created to practice Data Analysis applied to the cryptocurrency market, using Python, Jupyter Notebook, and several libraries for data collection, processing, statistical analysis, and visualization.
 
