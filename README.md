@@ -4,14 +4,14 @@
 
 
 🚀 Features
-	•	📥 Collecting historical data from Yahoo Finance and Binance
-	•	📈 Time series decomposition (trend, seasonality, and residuals)
-	•	📉 Moving averages to analyze price trends
-	•	🔎 Hypothesis testing:
+	•	Collecting historical data from Yahoo Finance and Binance
+	•	Time series decomposition (trend, seasonality, and residuals)
+	•	Moving averages to analyze price trends
+	•	Hypothesis testing:
 	•	Best month to invest in BTC
 	•	Best day to invest in BTC
-	•	🔗 Correlation analysis between different crypto assets
-	•	🕯 Candlestick chart visualizations for financial insights
+	•	Correlation analysis between different crypto assets
+	•	Candlestick chart visualizations for financial insights
 
 
 🛠 Technologies & Libraries
