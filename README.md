@@ -1,11 +1,11 @@
-# Crypto Assets Analysis with Python
+# Crypto Assets Analysis with Python 
 
 ### This project was created to practice Data Analysis applied to the cryptocurrency market, using Python, Jupyter Notebook, and several libraries for data collection, processing, statistical analysis, and visualization.
 
 
 
 
-🚀 Features
+#### Features
 	- Collecting historical data from Yahoo Finance and Binance
 	- Time series decomposition (trend, seasonality, and residuals)
 	- Moving averages to analyze price trends
@@ -17,7 +17,7 @@
 
 
 
-🛠 Technologies & Libraries
+#### Technologies & Libraries
 Python, Jupyter Notebook, Pandas, NumPy, Matplotlib, Seaborn, Plotly, Statsmodels, YFinance, Binance API.
 
 
