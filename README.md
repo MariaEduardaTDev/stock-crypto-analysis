@@ -22,14 +22,14 @@ Python, Jupyter Notebook, Pandas, NumPy, Matplotlib, Seaborn, Plotly, Statsmodel
 
 
 
-📂 Project Structure
+#### 📂 Project Structure
 - crypto_analysis.ipynb    # Main notebook with the analysis
 - requirements.txt            # Project Dependencies
 - README.md                   # Project documentation
 
 
 
-📊 Example Visualizations
+#### 📈 Example Visualizations
 	- Candlestick charts for BTC and other assets
 	- Correlation heatmaps
 	- Decomposed time series showing trend and seasonality
@@ -38,24 +38,24 @@ Python, Jupyter Notebook, Pandas, NumPy, Matplotlib, Seaborn, Plotly, Statsmodel
 
 
 
-▶ How to Run
+#### How to Run
 	1.	Clone this repository:
     git clone https://github.com/MariaEduardaTDev/stock-crypto-analysis.git
 
-2.	Create and activate a virtual environment:
+	2.	Create and activate a virtual environment:
     python -m venv venv
     source venv/bin/activate   # Linux/Mac  
     venv\Scripts\activate      # Windows
   	
-3.	Install dependencies:
+	3.	Install dependencies:
     pip install -r requirements.txt
 
-4.	Run Jupyter Notebook:
+	4.	Run Jupyter Notebook:
     jupyter notebook
 
 
 
-📌 Next Steps
+#### 📌Next Steps
 	- Add Machine Learning models (ARIMA, LSTM) for price prediction
 	- Automate real-time data collection from APIs
 	- Create an interactive dashboard for live crypto monitoring
