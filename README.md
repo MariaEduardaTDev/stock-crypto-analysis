@@ -1,6 +1,6 @@
 # Crypto Assets Analysis with Python 🐍
 
-### This project was created to practice Data Analysis applied to the cryptocurrency market, using Python, Jupyter Notebook, and several libraries for data collection, processing, statistical analysis, and visualization.
+### This project was developed to practice data analysis applied to the cryptocurrency market, using Python and Jupyter Notebook. The goal is to explore different techniques for data collection, processing, and visualization in order to identify patterns and insights from digital assets.
 
 
 
@@ -53,14 +53,12 @@ Python, Jupyter Notebook, Pandas, NumPy, Matplotlib, Seaborn, Plotly, Statsmodel
 	4.	Run Jupyter Notebook:
     jupyter notebook
 
-
+⸻
 
 #### 📌Next Steps
 	- Add Machine Learning models (ARIMA, LSTM) for price prediction
 	- Automate real-time data collection from APIs
 	- Create an interactive dashboard for live crypto monitoring
 
-⸻
 
-✨ This project combines finance, statistics, and data science, with the main goal of improving my skills in data analysis while exploring insights from the cryptocurrency market.
    
