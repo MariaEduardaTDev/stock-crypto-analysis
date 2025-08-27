@@ -4,14 +4,14 @@
 
 
 🚀 Features
-	•	Collecting historical data from Yahoo Finance and Binance
-	•	Time series decomposition (trend, seasonality, and residuals)
-	•	Moving averages to analyze price trends
-	•	Hypothesis testing:
-	•	Best month to invest in BTC
-	•	Best day to invest in BTC
-	•	Correlation analysis between different crypto assets
-	•	Candlestick chart visualizations for financial insights
+	- Collecting historical data from Yahoo Finance and Binance
+	- Time series decomposition (trend, seasonality, and residuals)
+	- Moving averages to analyze price trends
+	- Hypothesis testing:
+	- Best month to invest in BTC
+	- Best day to invest in BTC
+	- Correlation analysis between different crypto assets
+	- Candlestick chart visualizations for financial insights
 
 
 🛠 Technologies & Libraries
@@ -19,16 +19,16 @@ Python, Jupyter Notebook, Pandas, NumPy, Matplotlib, Seaborn, Plotly, Statsmodel
 
 
 📂 Project Structure
-├── notebooks/
-│   └── crypto_analysis.ipynb   # Main notebook with the analysis
-├── requirements.txt            # 
-└── README.md                   # Project documentation
+ - notebooks/
+    *crypto_analysis.ipynb   # Main notebook with the analysis
+- requirements.txt            # 
+- README.md                   # Project documentation
 
 
 📊 Example Visualizations
-	•	Candlestick charts for BTC and other assets
-	•	Correlation heatmaps
-	•	Decomposed time series showing trend and seasonality
+	- Candlestick charts for BTC and other assets
+	- Correlation heatmaps
+	- Decomposed time series showing trend and seasonality
 
 (add screenshots or plots here to make the repo more attractive)
 
@@ -50,9 +50,9 @@ Python, Jupyter Notebook, Pandas, NumPy, Matplotlib, Seaborn, Plotly, Statsmodel
 
 
 📌 Next Steps
-	•	Add Machine Learning models (ARIMA, LSTM) for price prediction
-	•	Automate real-time data collection from APIs
-	•	Create an interactive dashboard for live crypto monitoring
+	- Add Machine Learning models (ARIMA, LSTM) for price prediction
+	- Automate real-time data collection from APIs
+	- Create an interactive dashboard for live crypto monitoring
 
 ⸻
 
