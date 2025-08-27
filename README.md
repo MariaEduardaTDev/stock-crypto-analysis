@@ -23,9 +23,9 @@ Python, Jupyter Notebook, Pandas, NumPy, Matplotlib, Seaborn, Plotly, Statsmodel
 
 
 #### 📂 Project Structure
-- crypto_analysis.ipynb    # Main notebook with the analysis
-- requirements.txt            # Project Dependencies
-- README.md                   # Project documentation
+	- crypto_analysis.ipynb    # Main notebook with the analysis
+	- requirements.txt            # Project Dependencies
+	- README.md                   # Project documentation
 
 
 
