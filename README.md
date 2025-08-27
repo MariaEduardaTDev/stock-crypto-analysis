@@ -3,6 +3,8 @@
 ### This project was created to practice Data Analysis applied to the cryptocurrency market, using Python, Jupyter Notebook, and several libraries for data collection, processing, statistical analysis, and visualization.
 
 
+
+
 🚀 Features
 	- Collecting historical data from Yahoo Finance and Binance
 	- Time series decomposition (trend, seasonality, and residuals)
@@ -14,8 +16,10 @@
 	- Candlestick chart visualizations for financial insights
 
 
+
 🛠 Technologies & Libraries
 Python, Jupyter Notebook, Pandas, NumPy, Matplotlib, Seaborn, Plotly, Statsmodels, YFinance, Binance API.
+
 
 
 📂 Project Structure
@@ -25,12 +29,14 @@ Python, Jupyter Notebook, Pandas, NumPy, Matplotlib, Seaborn, Plotly, Statsmodel
 - README.md                   # Project documentation
 
 
+
 📊 Example Visualizations
 	- Candlestick charts for BTC and other assets
 	- Correlation heatmaps
 	- Decomposed time series showing trend and seasonality
 
 (add screenshots or plots here to make the repo more attractive)
+
 
 
 ▶ How to Run
@@ -47,6 +53,7 @@ Python, Jupyter Notebook, Pandas, NumPy, Matplotlib, Seaborn, Plotly, Statsmodel
 
 4.	Run Jupyter Notebook:
     jupyter notebook
+
 
 
 📌 Next Steps
