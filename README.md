@@ -88,9 +88,3 @@ The main goal is to explore different techniques for **data collection, visualiz
 6. Run jupyter notwbook
    ```bash
    jupyter notebook
-
-
-
-
-## 📂 Project Structure
-
