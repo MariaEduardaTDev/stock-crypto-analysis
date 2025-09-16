@@ -44,10 +44,15 @@ The main goal is to explore different techniques for **data collection, visualiz
 
 ## 📂 Project Structure
 ├── crypto_analysis.ipynb # Main notebook with analysis
+
 ├── crypto_analysis.py # Dependency extraction (can be removed if unused)
+
 ├── requirements.txt # Project dependencies
+
 ├── docs/
+
 │ └── relatorio_cripto.html # Automated EDA report
+
 └── README.md
 
 >  **Note**: The automated EDA report (`relatorio_cripto.html`) is stored inside the `docs/` folder.  
