@@ -76,14 +76,17 @@ The main goal is to explore different techniques for **data collection, visualiz
    git clone https://github.com/MariaEduardaTDev/stock-crypto-analysis.git
 
 2. Create and activate a virtual environment:
+   ```bash
 	python -m venv venv
 	source venv/bin/activate   # Linux/Mac  
 	venv\Scripts\activate      # Windows
 
-3. Install dependencies: 
+4. Install dependencies:
+	 ```bash
 	pip install -r requirements.txt
 
-4. Run jupyter notwbook
+6. Run jupyter notwbook
+   ```bash
    jupyter notebook
 
 
